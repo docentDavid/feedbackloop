@@ -1,5 +1,19 @@
-# Feedback Loop Grove
+# FeedbackLoop
 
+<img src="readme-images/feedbackloop.png" alt="FeedbackLoop Screenshot" width="400">
+
+## Overview
+FeedbackLoop is an innovative application designed to facilitate meaningful feedback exchanges between teachers and students. By transcribing conversations into text, the tool automatically categorizes feedback and feedforward according to specific learning outcomes. This structured approach helps students clearly understand their progress and areas for improvement, providing a transparent and effective learning process.
+
+## Key Features
+Automated Transcription: Converts spoken conversations into text for easy review.
+Categorized Feedback: Organizes feedback and feedforward based on specific learning objectives.
+Student Progress Tracking: Displays a clear process for students to visualize their learning journey.
+
+## Purpose
+FeedbackLoop enhances the learning experience by making feedback more accessible, structured, and actionable. It empowers students with clear guidance while helping educators streamline their assessment and support processes.
+
+## Used technologies
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -7,14 +21,6 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Overview
-Feedback Loop Grove is a modern web application built using Next.js, TypeScript, and PostCSS. This project leverages pnpm for package management and follows best practices for scalable frontend development.
-
-## Features
-- **Next.js** for server-side rendering and static site generation.
-- **JavaScript** for interactivity and maintainability.
-- Modular and scalable architecture.
 
 ## Installation
 
@@ -26,7 +32,7 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/feedbackloopgrovemain.git
+   git clone https://github.com/docentDavid/feedbackloopgrovemain.git
    cd feedbackloopgrovemain
    ```
 2. Install dependencies:
