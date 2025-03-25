@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  /* Learning outcome level styles */
+  .level-undefined {
+    @apply bg-gray-100 text-gray-500;
+  }
+  .level-orienting {
+    @apply bg-blue-50 text-blue-500;
+  }
+  .level-beginning {
+    @apply bg-indigo-50 text-indigo-500;
+  }
+  .level-proficient {
+    @apply bg-violet-50 text-violet-500;
+  }
+  .level-outstanding {
+    @apply bg-purple-50 text-purple-500;
+  }
+}
+
