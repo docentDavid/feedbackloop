@@ -13,9 +13,7 @@ Feedback Loop Grove is a modern web application built using Next.js, TypeScript,
 
 ## Features
 - **Next.js** for server-side rendering and static site generation.
-- **TypeScript** for type safety and maintainability.
-- **pnpm** for fast and efficient package management.
-- **PostCSS** for enhanced styling capabilities.
+- **JavaScript** for interactivity and maintainability.
 - Modular and scalable architecture.
 
 ## Installation
@@ -23,7 +21,7 @@ Feedback Loop Grove is a modern web application built using Next.js, TypeScript,
 ### Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (Latest LTS recommended)
-- [pnpm](https://pnpm.io/)
+- [npm](https://npm.io/)
 
 ### Steps
 1. Clone the repository:
@@ -33,11 +31,11 @@ Make sure you have the following installed:
    ```
 2. Install dependencies:
    ```sh
-   pnpm install
+   npm install
    ```
 3. Run the development server:
    ```sh
-   pnpm dev
+   npm run dev
    ```
 4. Open your browser and navigate to:
    ```
