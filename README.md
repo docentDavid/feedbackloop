@@ -2,6 +2,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-13-blue.svg?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4-blue.svg?style=for-the-badge&logo=typescript)
+![CXhatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-8-orange.svg?style=for-the-badge&logo=pnpm)
 ![PostCSS](https://img.shields.io/badge/PostCSS-red.svg?style=for-the-badge&logo=postcss)
 
