@@ -1,6 +1,6 @@
 # FeedbackLoop
 
-<img src="readme-images/feedbackloop.png" alt="FeedbackLoop Screenshot" width="400">
+<img src="readme-images/feedbackloop.png" alt="FeedbackLoop Screenshot">
 
 ## Overview
 FeedbackLoop is an innovative application designed to facilitate meaningful feedback exchanges between teachers and students. By transcribing conversations into text, the tool automatically categorizes feedback and feedforward according to specific learning outcomes. This structured approach helps students clearly understand their progress and areas for improvement, providing a transparent and effective learning process.
