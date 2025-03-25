@@ -1,10 +1,12 @@
 # Feedback Loop Grove
 
-![Next.js](https://img.shields.io/badge/Next.js-13-blue.svg?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-4-blue.svg?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CXhatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-8-orange.svg?style=for-the-badge&logo=pnpm)
-![PostCSS](https://img.shields.io/badge/PostCSS-red.svg?style=for-the-badge&logo=postcss)
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Overview
 Feedback Loop Grove is a modern web application built using Next.js, TypeScript, and PostCSS. This project leverages pnpm for package management and follows best practices for scalable frontend development.
