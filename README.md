@@ -55,10 +55,11 @@ Make sure you have the following installed:
 ## Scripts
 | Command       | Description                     |
 |--------------|---------------------------------|
-| `pnpm dev`   | Run the development server     |
-| `pnpm build` | Build the production version   |
-| `pnpm start` | Start the production server    |
-| `pnpm lint`  | Lint the code                  |
+| `npm run dev`   | Run the development server     |
+| `npm run build` | Build the production version   |
+| `npm start`     | Start the production server    |
+| `npm run lint`  | Lint the code                  |
+
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for discussion.
