@@ -28,7 +28,8 @@ FeedbackLoop enhances the learning experience by making feedback more accessible
 
 ### AI technologies
 ![CXhatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Lovable](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF9800?style=for-the-badge&logo=openai&logoColor=white)
+![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Installation
 
