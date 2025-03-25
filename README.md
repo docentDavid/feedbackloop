@@ -34,7 +34,7 @@ FeedbackLoop enhances the learning experience by making feedback more accessible
 ![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 [Badges resource](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-(Use <ctrl> (Windows) or <command> (Mac) click, to open in a new window).
+(Use `<ctrl>` (Windows) or <command> (Mac) click, to open in a new window).
 
 ## Installation
 
