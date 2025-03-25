@@ -33,7 +33,7 @@ FeedbackLoop enhances the learning experience by making feedback more accessible
 ![Lovable](https://img.shields.io/badge/Lovable-FF9800?style=for-the-badge&logo=openai&logoColor=white)
 ![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-[Badges resource](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+<a href="[https://example.com/docs](https://github.com/alexandresanlim/Badges4-README.md-Profile)" target="_blank">Badges resource</a>
 
 ## Installation
 
