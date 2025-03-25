@@ -17,7 +17,7 @@ FeedbackLoop enhances the learning experience by making feedback more accessible
 
 ### Application technologies
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F6C915?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Create and build technologies
