@@ -43,8 +43,8 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/docentDavid/feedbackloopgrovemain.git
-   cd feedbackloopgrovemain
+   git clone https://github.com/docentDavid/feedbackloop.git
+   cd feedbackloop
    ```
 2. Install dependencies:
    ```sh
