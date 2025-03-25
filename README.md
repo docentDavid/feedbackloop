@@ -22,7 +22,7 @@ FeedbackLoop enhances the learning experience by making feedback more accessible
 
 ### Create and build technologies
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub&Desktop-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![NODE JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-3C2179?style=for-the-badge&logo=github&logoColor=white)
